@@ -1,0 +1,14 @@
+content
+errorfile
+
+if you want to ignore particular type of files then use *(file_type)
+ex- *.txt
+    *.log and etc.
+
+*.txt
+ignoring a directory
+dir/ 
+(This will ignore all dir folders)
+change again
+
+
